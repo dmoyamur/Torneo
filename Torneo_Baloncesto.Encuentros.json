@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "663da96007357f3b2220dbc1"
+  },
+  "Etapa": "Final",
+  "Fecha": "12/11/2023",
+  "Equipo1": "Titanes de Barranquilla",
+  "Equipo2": "Cafeteros de Armenia",
+  "Estadio": "Coliseo Elías Chegwin",
+  "Resultado": "78:72"
+},
+{
+  "_id": {
+    "$oid": "663da96007357f3b2220dbc2"
+  },
+  "Etapa": "Final",
+  "Fecha": "13/11/2023",
+  "Equipo1": "Titanes de Barranquilla",
+  "Equipo2": "Cafeteros de Armenia",
+  "Estadio": "Coliseo Elías Chegwin",
+  "Resultado": "82:61"
+},
+{
+  "_id": {
+    "$oid": "663da96007357f3b2220dbc3"
+  },
+  "Etapa": "Final",
+  "Fecha": "18/11/2023",
+  "Equipo1": "Cafeteros de Armenia",
+  "Equipo2": "Titanes de Barranquilla",
+  "Estadio": "Coliseo Evangelista Mora",
+  "Resultado": "71:83"
+},
+{
+  "_id": {
+    "$oid": "663da96007357f3b2220dbc4"
+  },
+  "Etapa": "Final",
+  "Fecha": "19/11/2023",
+  "Equipo1": "Cafeteros de Armenia",
+  "Equipo2": "Titanes de Barranquilla",
+  "Estadio": "Coliseo Evangelista Mora",
+  "Resultado": "74:80"
+}]

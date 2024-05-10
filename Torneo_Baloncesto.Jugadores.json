@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663da26607357f3b2220dbba"
+  },
+  "Id_Jug": "01",
+  "Nombre": "Nacho Laterza",
+  "Nacionalidad": "Argentino",
+  "Equipo_Jug": "Titanes de Barranquilla"
+},
+{
+  "_id": {
+    "$oid": "663da26607357f3b2220dbbb"
+  },
+  "Id_Jug": "02",
+  "Nombre": "Jhonatan Rodriguez",
+  "Nacionalidad": "Puerto Rico",
+  "Equipo_Jug": "Titanes de Barranquilla"
+},
+{
+  "_id": {
+    "$oid": "663da26607357f3b2220dbbc"
+  },
+  "Id_Jug": "03",
+  "Nombre": "Juan Palacios",
+  "Nacionalidad": "Colombiano",
+  "Equipo_Jug": "Titanes de Barranquilla"
+},
+{
+  "_id": {
+    "$oid": "663da26607357f3b2220dbbd"
+  },
+  "Id_Jug": "04",
+  "Nombre": "Edgar Moreno",
+  "Nacionalidad": "Colombiano",
+  "Equipo_Jug": "Motilones del Norte"
+},
+{
+  "_id": {
+    "$oid": "663da26607357f3b2220dbbe"
+  },
+  "Id_Jug": "05",
+  "Nombre": "Michel Franco",
+  "Nacionalidad": "Colombiano",
+  "Equipo_Jug": "Titanes de Barranquilla"
+}]

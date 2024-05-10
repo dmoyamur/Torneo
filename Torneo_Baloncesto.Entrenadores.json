@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663d9f8d07357f3b2220dbad"
+  },
+  "Id_Ent": "01",
+  "Nombre": "Tomas Díaz",
+  "Equipo": "Titanes de Barranquilla"
+},
+{
+  "_id": {
+    "$oid": "663d9f8d07357f3b2220dbae"
+  },
+  "Id_Ent": "02",
+  "Nombre": "Jose Tapias",
+  "Equipo": "Piratas de Bogotá"
+},
+{
+  "_id": {
+    "$oid": "663d9f8d07357f3b2220dbaf"
+  },
+  "Id_Ent": "03",
+  "Nombre": "Carlos Parra",
+  "Equipo": "Bucaros de Bucaramanga"
+},
+{
+  "_id": {
+    "$oid": "663d9f8d07357f3b2220dbb0"
+  },
+  "Id_Ent": "04",
+  "Nombre": "Hernán Darío Giraldo",
+  "Equipo": "Cafeteros de Armenia"
+},
+{
+  "_id": {
+    "$oid": "663d9f8d07357f3b2220dbb1"
+  },
+  "Id_Ent": "05",
+  "Nombre": "Luis Beleño",
+  "Equipo": "Caribbean Storm Islands"
+}]

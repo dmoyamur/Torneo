@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf5e"
+  },
+  "Id_Equipo": "01",
+  "Nombre_Equipo": "Búcaros de Bucaramanga",
+  "Ciudad": "Bucaramanga",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf5f"
+  },
+  "Id_Equipo": "02",
+  "Nombre_Equipo": "Cafeteros de Armenia",
+  "Ciudad": "Armenia",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf60"
+  },
+  "Id_Equipo": "03",
+  "Nombre_Equipo": "Caribbean Storm Islands",
+  "Ciudad": "San Andrés",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf61"
+  },
+  "Id_Equipo": "04",
+  "Nombre_Equipo": "Cimarrones del Chocó",
+  "Ciudad": "Chocó",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf62"
+  },
+  "Id_Equipo": "05",
+  "Nombre_Equipo": "Cóndores de Cundinamarca",
+  "Ciudad": "Soacha",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf63"
+  },
+  "Id_Equipo": "06",
+  "Nombre_Equipo": "Corsarios de Cartagena",
+  "Ciudad": "Cartagena",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf64"
+  },
+  "Id_Equipo": "07",
+  "Nombre_Equipo": "Motilones del Norte",
+  "Ciudad": "Cúcuta",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf65"
+  },
+  "Id_Equipo": "08",
+  "Nombre_Equipo": "Piratas de Bogotá",
+  "Ciudad": "Bogotá",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf66"
+  },
+  "Id_Equipo": "09",
+  "Nombre_Equipo": "Sabios de Manizales",
+  "Ciudad": "Manizales",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf67"
+  },
+  "Id_Equipo": "10",
+  "Nombre_Equipo": "Team Cali",
+  "Ciudad": "Cali",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf68"
+  },
+  "Id_Equipo": "11",
+  "Nombre_Equipo": "Titanes de Barranquilla",
+  "Ciudad": "Barranquilla",
+  "Grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "663c6673ae8b41e09faadf69"
+  },
+  "Id_Equipo": "12",
+  "Nombre_Equipo": "Tigrillos de Medellín",
+  "Ciudad": "Medellín",
+  "Grupo": "B"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663daaa807357f3b2220dbc7"
+  },
+  "Posición": 1,
+  "Equipo": "Titanes de Barranquilla",
+  "Puntos": 20,
+  "Partidos Ganados": 10,
+  "Partidos Perdidos": 0
+},
+{
+  "_id": {
+    "$oid": "663daaa807357f3b2220dbc8"
+  },
+  "Posición": 2,
+  "Equipo": "Cafeteros de Armenia",
+  "Puntos": 19,
+  "Partidos Ganados": 9,
+  "Partidos Perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "663daaa807357f3b2220dbc9"
+  },
+  "Posición": 3,
+  "Equipo": "Caribean Storm Islands",
+  "Puntos": 18,
+  "Partidos Ganados": 8,
+  "Partidos Perdidos": 2
+},
+{
+  "_id": {
+    "$oid": "663daaa807357f3b2220dbca"
+  },
+  "Posición": 4,
+  "Equipo": "Team Cali",
+  "Puntos": 17,
+  "Partidos Ganados": 8,
+  "Partidos Perdidos": 2
+},
+{
+  "_id": {
+    "$oid": "663daaa807357f3b2220dbcb"
+  },
+  "Posición": 5,
+  "Equipo": "Motilones del Norte",
+  "Puntos": 16,
+  "Partidos Ganados": 6,
+  "Partidos Perdidos": 4
+}]

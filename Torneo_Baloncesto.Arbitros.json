@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "663dac1607357f3b2220dbce"
+  },
+  "Id_Arbitro": "01",
+  "Nombre": "Nicolás Gallo"
+},
+{
+  "_id": {
+    "$oid": "663dac1607357f3b2220dbcf"
+  },
+  "Id_Arbitro": "02",
+  "Nombre": "Wilmar Navarro"
+},
+{
+  "_id": {
+    "$oid": "663dac1607357f3b2220dbd0"
+  },
+  "Id_Arbitro": "03",
+  "Nombre": "Dionisio Ruiz"
+},
+{
+  "_id": {
+    "$oid": "663dac1607357f3b2220dbd1"
+  },
+  "Id_Arbitro": "04",
+  "Nombre": "Diego Ruiz"
+},
+{
+  "_id": {
+    "$oid": "663dac1607357f3b2220dbd2"
+  },
+  "Id_Arbitro": "05",
+  "Nombre": "Fernando Acuña"
+}]
